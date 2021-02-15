@@ -19,8 +19,16 @@ Main is the production brnach that is the source of truth alll the time and is p
 
 Following are the tasks along with the reference items on the topics. Please take the tasks in chronological order.
 
+## Day 1
 - Clone this repository.
 - Create a new branch of any name.
 - Create a new text file and add any content to it.
 - Push the file to the repository.
 - Create a PR to merge your work to develop and assign me to merge PR.
+- Check if all the branches are consistent. If not, make them.
+
+## Day 2
+- Once all the branches share the same content, add another file with some content to branch develop and raise a PR.
+- Get the PR merged to develop.
+- Raise a PR to merge Develop to Staging, resolve any conflicts and get this merged.
+- After the above is merged raise a PR to down merge staging to develop.
