@@ -25,7 +25,8 @@ Following are the tasks along with the reference items on the topics. Please tak
 - Create a new text file and add any content to it.
 - Push the file to the repository.
 - Create a PR to merge your work to develop and assign me to merge PR.
-- Check if all the branches are consistent. If not, make them.
+- Check if all the branches are consistent. If not, create a new branch off develop and share your approach to make them consistent in a file.
+- Raise a PR to add your stategy to develop.
 
 ## Day 2
 - Once all the branches share the same content, add another file with some content to branch develop and raise a PR.
