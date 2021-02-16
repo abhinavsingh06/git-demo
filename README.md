@@ -5,7 +5,7 @@ This repo contains the set of tasks that would be essential to get hands on the 
 ## Setup ssh for github: 
 - https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
-For any git reference: 
+For any git reference and learning: 
 - https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 - https://try.github.io/
 - https://www.tutorialspoint.com/git/index.htm
