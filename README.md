@@ -29,8 +29,6 @@ Following are the tasks along with the reference items on the topics. Please tak
 - Raise a PR to add your stategy to develop.
 
 ## Day 2
-- Once all the branches share the same content, add another file with some content to branch develop and raise a PR.
-- Get the PR merged to develop.
-- Cut a tag and create a branch out of tag.
-- Raise a PR to merge tag to Staging, resolve any conflicts and get this merged.
+- Cut a tag RL-1 on develop and create a branch out of tag as release/RL-1.
+- Raise a PR to merge tagged branch to Staging, resolve any conflicts and get this merged.
 - After the above is merged raise a PR to down merge tag to develop.
